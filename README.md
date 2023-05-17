@@ -78,4 +78,4 @@ Bidirectional is used in RNN to pass information in both sides of the neural net
 
 ## Dependencies
 
-All you need is Google Colab and the required dataset to create this WebApp on device
+All you need is Google Colab and the required dataset to create this WebApp on your device
