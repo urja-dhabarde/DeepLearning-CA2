@@ -70,7 +70,7 @@ Bidirectional is used in RNN to pass information in both sides of the neural net
 
 1) Precision = 0.81080162525 
 2) Recall = 0.683366715908085
-3) CategoricalAccuracy = 0.46740221977233887
+3) CategoricalAccuracy = 0.54740221977233887
 
 *We are woring on improving the model's accuracy*
 
