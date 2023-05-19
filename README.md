@@ -2,7 +2,7 @@
 # Hate Speech detection Web-App 
 
 
-This is a group project for Continuous Assesment at DIEMS. We have built an interface that will classify a comment or statement as toxic, severe_toxic, obscene, threat, insult or identity_hate. Here, we have used 'Gradio' to create the interface and the Classification Models has been created on Google Colab. The Dataset we have used is available on Kaggle - https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge
+This is a group project for Continuous Assesment at DIEMS. We have built an interface that will classify a comment or statement as toxic, severe_toxic, obscene, threat, insult or identity_hate. Here, we have used 'Gradio' to create the interface and the Classification Models has been created on Google Colab. The Dataset we have used is available on Kaggle - https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge 
 
 
 
